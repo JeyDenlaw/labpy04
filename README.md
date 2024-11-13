@@ -14,3 +14,11 @@ Penjelasan :
 - Pada Line 13 - 15, Program menanyakan apakah pengguna ingin menambah data lagi. Jika pengguna memasukkan 't', loop akan berhenti.
 - Pada Line 17 - 23, Program mencetak daftar data mahasiswa yang telah dimasukkan dalam format tabel yang rapi.
                      Kolom-kolom yang ditampilkan meliputi nomor, nama, NIM, nilai tugas, nilai UTS, nilai UAS, dan nilai akhir.
+
+Hasil Output Program : 
+
+![Screenshot 2024-11-13 222226](https://github.com/user-attachments/assets/1854b065-a721-4149-91e4-871e73fad626)
+
+![Screenshot 2024-11-13 222254](https://github.com/user-attachments/assets/5bfb4a84-224f-4205-9b66-de1991879797)
+
+
