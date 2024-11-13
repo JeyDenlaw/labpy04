@@ -1,7 +1,8 @@
 Penjelasan Program serta Flowchart
 
 Flowchart : 
-![image](https://github.com/user-attachments/assets/cf580d96-c6ce-4bbc-a3ac-ca1063a93d43)
+![image](https://github.com/user-attachments/assets/a2243fb6-c373-4cc2-9f50-cf3bbdb17f48)
+
 
 Penjelasan :  
 - Pada Line 1, Program dimulai dengan membuat daftar kosong bernama data yang akan digunakan untuk menyimpan data mahasiswa.
